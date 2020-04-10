@@ -10,7 +10,7 @@ public class HelloWorld {
 	private String input;
 	private String output;
 	public void submit() {
-		output = "Hello World! You have typed: " + input;
+		output = "Hello World! My NIM is: " + input;
 	}
 	
 	public String getInput() {
